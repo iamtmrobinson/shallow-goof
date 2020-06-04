@@ -10,7 +10,7 @@
   "dependencies": {
     "https-proxy-agent": "^2.1.1",
     "lodash": "3.10.1",
-    "node-uuid": "1.4.0",
+    "node-uuid": "1.4.8",
     "qs": "0.0.6"
   }
 }
